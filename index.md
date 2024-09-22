@@ -5,3 +5,6 @@
 ##### h5
 ###### h6
 ![Image of Cat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hello, World!";
+```
